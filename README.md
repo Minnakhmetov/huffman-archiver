@@ -1,2 +1,2 @@
 # huffman-archiver
-Huffman coding implementation
+Huffman coding implementation.
